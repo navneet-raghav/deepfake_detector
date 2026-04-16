@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (full)
+dataset/
+raw_videos/
+train_sample_videos/
+
+# Large files
+*.mp4
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
