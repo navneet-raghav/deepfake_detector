@@ -115,7 +115,7 @@ pip install -r requirements.txt
 
 ## Getting the dataset
 
-Download `train_sample_videos.zip` (~4 GB) from the [Kaggle DFDC competition page](https://www.kaggle.com/c/deepfake-detection-challenge/data). You need a free Kaggle account and to accept the competition rules. Don't download the full dataset — it's 470 GB.
+Download `train_sample_videos.zip` (~4 GB) from the [Kaggle DFDC competition page](https://www.kaggle.com/c/deepfake-detection-challenge/data).
 
 Extract it.
 
